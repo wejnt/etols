@@ -1,0 +1,2 @@
+[workspace]
+members = ["etols-app","etols-frame", "emditor"]
